@@ -7,7 +7,7 @@ Access the world wide web!
 ## Setup
 
 ```sh
-git clone https://github.com/titaniumnetwork-dev/Incognito
+git clone https://herokuapp.com/deploy?template=https://github.com/dennia35/incognito
 cd Incognito
 npm install
 npm start
